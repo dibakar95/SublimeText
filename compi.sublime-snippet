@@ -1,0 +1,32 @@
+<snippet>
+	<content><![CDATA[
+#include <bits/stdc++.h>
+using namespace std;
+
+typedef long long ll;
+typedef long double ld;
+typedef vector<ll> vi;
+typedef pair<ll, ll> pii;
+typedef vector<pii> vii;
+typedef map<ll, ll> mii;
+const int MOD = 1e9 + 7;
+
+#define fastIO() \
+ios_base::sync_with_stdio(false); cin.tie(nullptr);
+#define endl "\n"
+#define pb push_back
+#define ff first
+#define ss second
+#define mp make_pair 
+
+int main() {
+    
+    return 0;
+}
+
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>compi</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.c++</scope>
+</snippet>
